@@ -1,2 +1,2 @@
 # dj-docker-api
-testing django + docker + some stuff
+sandbox for django + docker + some stuff
